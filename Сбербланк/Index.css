@@ -1,0 +1,105 @@
+.color{
+    background: #fdf4e9;
+    width: 700px;
+    height: 199px;
+}
+.fire{
+    color: #199f29;
+    font-family: Calibri;
+    font-size: 34px;
+    font-weight: 600;
+    line-height: 40px;
+    padding-left: 40px;
+}
+.company{
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 25px;
+    padding-left: 40px;
+    padding-bottom: 20px;
+}
+.img{
+    position: absolute;
+    left: 930px;
+    bottom: 445px;
+}
+.box-main{
+    box-shadow: 0 9px 13px 0 rgba(0,0,0,0.06);
+}
+.box-sub{
+    box-shadow: 0 9px 13px 0 rgba(0,0,0,0.06);
+    width: 700px;
+    height: 160px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.box-sub-one{
+    box-shadow: 0 9px 13px 0 rgba(0,0,0,0.06);
+    width: 700px;
+    height: 100px;
+    padding-top: 20px;
+    padding-bottom: 30px;
+}
+.main{
+    padding-left: 30px;
+}
+.sub-main{
+    padding-left: 30px;
+}
+.last{
+  color: #199f29;
+  font-family: Calibri;
+  font-size: 30px;
+  font-weight: 500;
+  line-height: 50px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+.button-black{
+    font-family:Calibri;
+    font-size:18px;
+    font-weight:600;
+    line-height:19px;
+    text-align:center;
+    background-color:#000000;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:30px;
+    padding-left:30px;
+}
+.button-green{
+    font-family:Calibri;
+    font-size:18px;
+    font-weight:600;
+    line-height:19px;
+    text-align:center;
+    background-color:#19bb4f;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding-right:30px;
+    padding-left:30px;
+}
+.textbutton{
+    text-decoration:none;color:#ffffff;
+}
+.img-first{
+    position: relative;
+    right: 40px;
+}
+.vacancy{
+    font-family: Calibri;
+  font-size: 24px;
+  font-weight: 600;
+  line-height: 33px;
+    color: #000000;
+    text-decoration: none;
+}
+.city{
+    color: #acb4b4;
+  font-family: Calibri;
+  font-size: 18px;
+  font-weight: 300;
+  line-height: 25px;
+    text-decoration: none;
+}

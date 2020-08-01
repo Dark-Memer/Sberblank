@@ -1,0 +1,566 @@
+@media(min-width:500px){
+    .*{
+        font-family: cursive;
+    }
+}
+.inst{
+     border-radius: 15px;
+     background-color: #e8ffeb;
+     width: 148px;
+     height: 30px;
+     text-align: center;
+     position: relative;
+     left: 190px;
+     top: 50px;
+}
+.header-posob{
+    width: 730px;
+    height: 32px;
+    color: #202124;
+    font-family: Calibri;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    position: relative;
+    left:190px;
+    top:70px;
+}
+.header-august{
+    width: 88,7px;
+    height: 16px;
+    color: #acb4b4;
+    font-family: Calibri;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    position: relative;
+    left:190px;
+    top:80px;
+}
+.header-green{
+    width: 1110px;
+    height: 162px;
+    color: #202124;
+    font-family: Calibri;
+    font-size: 24px;
+    font-weight: 300;
+    line-height: 38px;
+    background-color: #e8ffeb;
+    position: relative;
+    left: 0px;
+    top:90px;
+    padding: 20px 0px 0px 185px;
+}
+.state{
+    width: 119,77px;
+    height: 24px;
+    font-family: Calibri;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 24px;
+    position: relative;
+    left: 470px;
+    top: 110px;
+}
+.posob{
+    width: 750px;
+    height: 38px;
+    color: #202124;
+    font-family: Calibri;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 38px;
+    text-align: center;
+    position: relative;
+    left: 145px;
+    top: 110px;
+}
+.bigwindow{
+    position: relative;
+    left: 100px;
+    top: 140px;
+}
+.picone{
+    position: relative;
+    left: 50px;
+    top: 200px;
+}
+.zarpnach{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 24px;
+    font-family: Calibri;
+    position: relative;
+    left: 180px;
+    top: 60px;
+}
+.lineone{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 70px;
+}
+.fac{
+    width: 397px;
+    height: 24px;
+    font-family: Calibri;
+     font-size: 17px;
+  font-weight: 600;
+  line-height: 24px;
+    position: relative;
+    left: 180px;
+    top: 80px;
+}
+.linetwo{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 90px;
+}
+.prem{
+    width: 800px;
+    height: 24px;
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 24px;
+    position: relative;
+    left: 180px;
+    top: 100px;
+}
+.linethree{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 110px;
+}
+.vse{
+    width: 397px;
+    height: 24px;
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 24px;
+    position: relative;
+    left: 180px;
+    top: 120px;
+}
+.linefour{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 130px;
+}
+.pictwo{
+    position: relative;
+    left: 50px;
+    top: 180px;
+}
+.isk{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 24px;
+    font-family: Calibri;
+    position: relative;
+    left: 180px;
+    top: 40px;
+}
+.linefive{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 50px;
+}
+.mat{
+    width: 397px;
+    height: 24px;
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 24px;
+    position: relative;
+    left: 180px;
+    top: 60px;
+}
+.linesix{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 70px;
+}
+.premii{
+    width: 500px;
+    height: 24px;
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 24px;
+    position: relative;
+    left: 180px;
+    top: 80px;
+}
+.lineseven{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 90px;
+}
+.oplata{
+    width: 500px;
+    height: 24px;
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 24px;
+    position: relative;
+    left: 180px;
+    top: 100px;
+}
+.law{
+  color: #199f29;
+  font-family: Calibri;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 24px;
+    text-decoration: underline;
+}
+.lineeight{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 110px;
+}
+.drugie{
+    width: 500px;
+    height: 24px;
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 24px;
+    position: relative;
+    left: 180px;
+    top: 120px;
+}
+.linenine{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 130px;
+}
+.picthree{
+    position: relative;
+    left: 50px;
+    top: 180px;
+}
+.iskday{
+    font-size: 26px;
+    font-weight: 700;
+    line-height: 24px;
+    font-family: Calibri;
+    position: relative;
+    left: 180px;
+    top: 40px;
+}
+.lineten{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 50px;
+}
+.period{
+    width: 750px;
+    height: 24px;
+    position: relative;
+    left: 180px;
+    top: 60px;
+}
+.period-obuch{
+    font-family: Calibri;
+    font-size: 17px;
+    font-weight: 600;
+    line-height: 24px;
+    text-decoration: none;
+}
+.linetwelve{
+    width: 790px;
+    height: 1px;
+    border: solid 1px #cbd5de;
+    position: relative;
+    left: 10px;
+    top: 10px;
+}
+.mini{
+    color: #999999;
+    font-family: Calibri;
+    width: 800px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    position: relative;
+    left: 180px;
+    top: 140px;
+}
+.sink{
+    color: #199f29;
+    font-family: Calibri;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    text-decoration: underline;
+}
+.minitwo{
+    color: #999999;
+    font-family: Calibri;
+    width: 800px;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 16px;
+    position: relative;
+    left: 180px;
+    top: 150px;
+}
+.bigline{
+    width: 900px;
+    background-color: #000000;
+    position: relative;
+    left: 110px;
+    top: 200px;
+}
+.friend{
+    width: 576,25px;
+    height: 22px;
+    color: #202124;
+    font-family: Calibri;
+    font-size: 16px;
+    font-weight: 540;
+    line-height: 22px;
+    position: relative;
+    left: 280px;
+    top: 250px;
+}
+.divone{
+    width: 540px;
+    height: 390px;
+    background: #ffffff;
+    box-shadow: 0 9px 13px 0 rgba(0,0,0,0.06);
+    position: relative;
+    right: 570px;
+    top: 100px;
+}
+.ex{
+    border-radius: 15px;
+     background-color: #e8ffeb;
+    padding: 0px 0px 0px 0px;
+    width: 125px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 40px;
+}
+.tdone{
+    color: #202124;
+    font-family: Calibri;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    padding: 10px 0px 0px 70px;
+}
+.tdtwo{
+    width: 105,76px;
+    height: 16px;
+    color: #acb4b4;
+    font-family: Calibri;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    padding: 10px 0px 0px 70px;
+}
+.tdthree{
+    width: 410px;
+    height: 102px;
+    color: #202124;
+    font-family: Calibri;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    padding: 10px 0px 0px 70px;
+}
+.tdfour{
+    font-family: Calibri;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 19px;
+    padding: 10px 0px 0px 70px;
+}
+.divtwo{
+    width: 540px;
+    height: 390px;
+    background: #ffffff;
+    box-shadow: 0 9px 13px 0 rgba(0,0,0,0.06);
+    position: relative;
+    left: 570px;
+    bottom: 290px;
+    margin-bottom: -100px;
+}
+.button{
+    width: 220px;
+    height: 30px;
+    background: #262626;
+    text-align: center;
+    text-decoration: none;
+    position: relative;
+    right: 420px;
+    top: 130px;
+    margin: 20px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+}
+.buttontext{
+    color: #ffffff;
+    font-family: Calibri;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 19px;
+    text-align: center;
+    text-decoration: none;
+}
+.main-podrobnee{
+    color: #199f29;
+    font-family: Calibri;
+}
+.description {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+    position: relative;
+    left: 180px;
+    width: 760px;
+}
+.menu-by-max {
+  display: flex;
+  flex-direction: column;
+}
+.closed::after {
+  content: "  \2228";
+  width: 1em;
+}
+.opened::after {
+  content: "  \2227";
+  width: 1em;
+}
+.subMenu {
+  list-style: none;
+  color: #202124;
+  font-family: Calibri;
+  font-size: 16px;
+  font-weight: 300;
+  line-height: 24px;
+}
+.submenu_closed{
+  display: none;
+}
+.submenu_opened{
+  display: block;
+}
+.subMenu > li::before {
+  content: "\2022";
+  /* Add content: \2022 is the CSS Code/unicode for a bullet */
+  font-family: Calibri;
+    padding-top: 10px;
+    padding-left: 180px;
+  color: green;
+  /* Change the color */
+  
+  font-weight: bold;
+  /* If you want it to be bold */
+  
+  display: inline-block;
+  /* Needed to add space between the bullet and the text */
+  
+  width: 1em;
+  /* Also needed for space (tweak if needed) */
+  
+ 
+}
+.first-big-window{
+    background-color: #ffffff;
+    box-shadow: 0 9px 13px 0 rgba(0,0,0,0.06);
+    width: 1110px;
+    padding-bottom: 320px;
+    margin-bottom: 20px;
+}
+.sub-menus{
+    position: relative;
+    top: 60px;
+}
+.sub-menus-first{
+    position: relative;
+    top: 100px;
+}
+.another-state{
+  color: #262626;
+  font-family: Calibri;
+  font-size: 45px;
+  font-weight: 600;
+  line-height: 45px;
+    position: relative;
+    left: 410px;
+    top: 10px;
+}
+.ex-two{
+    border-radius: 15px;
+     background-color: #e8ffeb;
+    padding: 0px 0px 0px 0px;
+    width: 125px;
+    text-align: center;
+    margin-left: 70px;
+    margin-top: 20px;
+}
+.tdone-two{
+    color: #202124;
+    font-family: Calibri;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 32px;
+    padding: 10px 0px 0px 70px;
+}
+.tdtwo-two{
+    width: 105,76px;
+    height: 16px;
+    color: #acb4b4;
+    font-family: Calibri;
+    font-size: 12px;
+    font-weight: 600;
+    line-height: 16px;
+    padding: 10px 0px 0px 70px;
+}
+.tdthree-two{
+    width: 500px;
+    height: 102px;
+    color: #202124;
+    font-family: Calibri;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 26px;
+    padding: 10px 0px 0px 70px;
+}

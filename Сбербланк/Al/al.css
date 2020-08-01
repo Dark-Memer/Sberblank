@@ -1,0 +1,117 @@
+.main-div{
+    box-shadow: 0 9px 13px 0 rgba(0,0,0,0.06);
+}
+.first-meeting{
+    width: 700px;
+  height: 91px;
+  color: #199f29;
+  font-family: sans-serif;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 44px;
+  text-align: center;
+    padding-top: 30px;
+    padding-bottom: 20px;
+}
+.date{
+    width: 532px;
+  height: 41px;
+  font-family: sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 41px;
+  text-align: center;
+}
+.adress{
+    width: 532px;
+  height: 30px;
+  color: #090909;
+  font-family: sans-serif;
+  font-size: 19px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: center;
+}
+.picture{
+    text-align: center;
+}
+.speaker{
+    text-align: left;
+    width: 532px;
+  height: 30px;
+  color: #090909;
+  font-family: sans-serif;
+  font-size: 21px;
+  font-weight: 300;
+  line-height: 30px;
+}
+.max{
+    width: 532px;
+  height: 35px;
+  color: #090909;
+  font-family: sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 30px;
+}
+.fire{
+    width: 657px;
+  height: 63px;
+  color: #199f29;
+  font-family: sans-serif;
+  font-size: 26px;
+  font-weight: 700;
+  line-height: 30px;
+    padding-top: 10px;
+}
+.sub{
+    width: 532px;
+  height: 30px;
+  color: #090909;
+  font-family: sans-serif;
+  font-size: 19px;
+  font-weight: 300;
+  line-height: 30px;
+    padding-left: 30px;
+}
+.names{
+  color: #090909;
+  font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 700;
+  line-height: 30px;
+  text-align: center;
+}
+.sub-names{
+  color: #090909;
+  font-family:sans-serif;
+  font-size: 17px;
+  font-weight: 300;
+  line-height: 30px;
+  text-align: center;
+}
+.text{
+    width: 672px;
+  height: 260px;
+  font-family: sans-serif;
+  font-size: 19px;
+  font-weight: 300;
+  line-height: 30px;
+}
+.link{
+    width: 241px;
+    height: 60px;
+    background: #19bb4f;
+}
+.link a{
+    display: block;
+    text-align: center; /* Выравнивание по центру */
+    height: 100%; /* Высота на весь слой */
+    color: #ffffff;
+    text-decoration: none;
+    font-family: sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  line-height: 20px;
+    padding-top: 10px;
+}

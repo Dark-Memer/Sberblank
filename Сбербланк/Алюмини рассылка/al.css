@@ -1,0 +1,88 @@
+.main-table{
+    width: 700px;
+}
+.first{
+    background: #ffffff;
+box-shadow: 0px 9px 13px rgba(0, 0, 0, 0.0564708); 
+}
+.first-meet{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 42px;
+line-height: 46px;
+color: #199f29;
+    width: 568px;
+height: 106px;
+    padding: 48px 50px 0px 82px;
+}
+.mini-heading{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+    width: 580px;
+height: 69px;
+padding: 10px 34px 0px 86px;
+}
+.photo{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 19px;
+line-height: 30px;
+    padding: 10px 0px 0px 84px;
+}
+.green{
+    background: #E8FFEB;
+}
+.button{
+    background: #1A9F29;
+border-radius: 2px;
+    font-family: sans-serif;
+font-style: normal;
+font-weight: 600;
+font-size: 20px;
+line-height: 23px;
+    padding: 10px 14px 10px 14px;
+    margin: 10px 222px 10px 222px;
+}
+.text{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 24px;
+color: #000000;
+    padding: 28px 81px 10px 83px;
+}
+.second-meet{
+   font-family: sans-serif;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 24px;
+color: #199F29;
+    padding: 50px 48px 0px 84px;
+}
+.if{
+    font-family: sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 24px;
+color: #000000;
+    padding: 20px 67px 0px 84px;
+}
+.div-green{
+    background: #E8FFEB;
+    margin: 20px 48px 20px 48px;
+    padding-bottom: 20px;
+}
+.div-blue{
+    background: #ECF6FF;
+    margin: 20px 48px 20px 48px;
+    padding-bottom: 20px;
+}
